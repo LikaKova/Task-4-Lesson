@@ -1,0 +1,8 @@
+C:\Users\akovalenko2\source\repos\honesTAsk\honesTAsk\bin\Debug\honesTAsk.exe.config
+C:\Users\akovalenko2\source\repos\honesTAsk\honesTAsk\bin\Debug\honesTAsk.exe
+C:\Users\akovalenko2\source\repos\honesTAsk\honesTAsk\bin\Debug\honesTAsk.pdb
+C:\Users\akovalenko2\source\repos\honesTAsk\honesTAsk\obj\Debug\honesTAsk.csproj.AssemblyReference.cache
+C:\Users\akovalenko2\source\repos\honesTAsk\honesTAsk\obj\Debug\honesTAsk.csproj.SuggestedBindingRedirects.cache
+C:\Users\akovalenko2\source\repos\honesTAsk\honesTAsk\obj\Debug\honesTAsk.csproj.CoreCompileInputs.cache
+C:\Users\akovalenko2\source\repos\honesTAsk\honesTAsk\obj\Debug\honesTAsk.exe
+C:\Users\akovalenko2\source\repos\honesTAsk\honesTAsk\obj\Debug\honesTAsk.pdb
