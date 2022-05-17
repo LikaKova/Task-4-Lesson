@@ -1,0 +1,15 @@
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\bin\Debug\net6.0\TextReadTask.exe
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\bin\Debug\net6.0\TextReadTask.deps.json
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\bin\Debug\net6.0\TextReadTask.runtimeconfig.json
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\bin\Debug\net6.0\TextReadTask.dll
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\bin\Debug\net6.0\TextReadTask.pdb
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\TextReadTask.csproj.AssemblyReference.cache
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\TextReadTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\TextReadTask.AssemblyInfoInputs.cache
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\TextReadTask.AssemblyInfo.cs
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\TextReadTask.csproj.CoreCompileInputs.cache
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\TextReadTask.dll
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\refint\TextReadTask.dll
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\TextReadTask.pdb
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\TextReadTask.genruntimeconfig.cache
+C:\Users\akovalenko2\source\repos\TextReadTask\TextReadTask\obj\Debug\net6.0\ref\TextReadTask.dll
